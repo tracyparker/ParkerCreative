@@ -1,2 +1,2 @@
 # ParkerCreative
-Mock site for Parker Creative. 
+Mock site for company specializing in web design, research, and photography. Done a little tongue in cheek. Having fun with this one. Using some of the free stock photos that were released as part of promoting the movie "Unfinished Business" with Vince Vaughn and Dave Franco. They reminded me so much of some of the slides from the video courses I took through the Dept. of Commerce while employed at the Census Bureau. (All other photos on the site were taken by me, or made by me in my fractal program Mandelbulb 3D.) Also made use of some of the free vector graphics and avatars I've been pulling off the web and stock piling. Still under construction.
